@@ -16,7 +16,6 @@ public class program5{
     s1.branch=input.next();
     System.out.println("Whats your roll number?");
     s1.roll_number=input.nextInt();
-    System.out.println("Whats the name of your college?");
     System.out.println("-----STUDENT DETAILS-----");
     System.out.println(s1.name);
     System.out.println(s1.branch);
